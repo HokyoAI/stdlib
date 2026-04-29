@@ -10,3 +10,7 @@ Based on SysML-v2-Release commit 834a3daf073b1886244833d9341677eb9733d1e4 (Janua
 - Removed .meta.json and .project.json (these are ignored by our compiler anyway)
 - Used simpler names for each library
 - Removed all libraries except for Base, Collections, and ScalarValues
+
+### 2026-04-29
+
+- Added back metadata libraries (except ParametersOfInterestMetadata)
