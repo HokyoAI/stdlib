@@ -136,8 +136,6 @@ standard library package ModelingMetadata {
 		 * In such a relationship, the source elements of the relationship provide a more precise and/or 
 		 * accurate representation than the target elements.
 		 */
-	
-		:>> annotatedElement : SysML::Dependency;
 	}
 	
 }

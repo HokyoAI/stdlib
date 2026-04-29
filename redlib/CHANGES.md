@@ -14,3 +14,4 @@ Based on SysML-v2-Release commit 834a3daf073b1886244833d9341677eb9733d1e4 (Janua
 ### 2026-04-29
 
 - Added back metadata libraries (except ParametersOfInterestMetadata)
+- Removed annotation element redefinition for ModelingMetadata to keep redlib self contained.
